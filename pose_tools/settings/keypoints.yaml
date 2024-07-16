@@ -1,0 +1,17 @@
+keypoints:
+  - id: 0
+    name: left-front-bumper
+  - id: 1
+    name: left-rear-bumper 
+  - id: 2
+    name: left-front-tire
+  - id: 3
+    name: left-rear-tire
+  - id: 4
+    name: right-front-bumper
+  - id: 5
+    name: right-rear-bumper
+  - id: 6
+    name: right-front-tire
+  - id: 7
+    name: right-rear-tire
